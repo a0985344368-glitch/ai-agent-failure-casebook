@@ -90,7 +90,7 @@ This free sample is 10 cases. The paid edition has **40 real post-mortems**, eac
 - a **30-second copy-paste detection reagent** (run it, get CARRIER or CLEAN),
 - a **one-line vaccine** that prevents recurrence. Covers 6 root-cause families (silent status-swallow, mojibake-under-200, platform no-ops, broken-measurement, confirmation theater, trust-not-verify chains).
 
-➡️ **Get the full 40-case volume ($24):** https://1219763523552.gumroad.com/l/ddnny
+The full 40-case edition exists as a separately published volume; this repository hosts the free 10-case sample.
 
 The casebook compounds: more cases → stronger vaccines. The system that produced these is its own first patient.
 
