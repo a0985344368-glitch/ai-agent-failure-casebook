@@ -3,9 +3,9 @@
 
 **10 real failure modes that kill autonomous coding agents — with a detection check and a vaccine for each.**
 
-Hand-curated and anonymized from a private corpus of **366 post-mortems** collected running a multi-agent fleet (Claude Code + Codex + cloud workers) in production. Each case is a real failure we hit, diagnosed, and immunized against. Paths, accounts, and keys scrubbed. **Defense-only**: every entry is a failure pattern + how to detect it + how to prevent it. No attack content.
+Hand-curated and anonymized from a private corpus of **400+ post-mortems** (broad definition) collected running a multi-agent fleet (Claude Code + Codex + cloud workers) in production. Each case is a real failure we hit, diagnosed, and immunized against. Paths, accounts, and keys scrubbed. **Defense-only**: every entry is a failure pattern + how to detect it + how to prevent it. No attack content.
 
-**Why this exists:** most teams treat an agent bug as a one-off — fix it, move on. We treat each one as a *specimen*: autopsy it, build a reagent (a check) and a vaccine (a guard), and shelve it. After 366, the casebook itself became the moat. This free sample is 10 of them.
+**Why this exists:** most teams treat an agent bug as a one-off — fix it, move on. We treat each one as a *specimen*: autopsy it, build a reagent (a check) and a vaccine (a guard), and shelve it. After 400+, the casebook itself became the moat. This free sample is 10 of them.
 
 > ⭐ If this saves you a debugging session, a star helps other agent builders find it.
 
